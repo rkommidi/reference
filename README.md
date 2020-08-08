@@ -1,6 +1,53 @@
-Reference Notes
+### Reference
+* [Home][home]
+* Scripting
+    * [Perl][perl]
+    * [Korn Shell][ksh]
+    * [Python][python]
+* DevOps
+    * CI
+      * [Jenkins][jenkins]
+      * Bamboo
+      * Travis CI
+    * CM
+      * [Ansible][ansible]
+* Cloud
+    * AWS
+      * S3
+    * Azure
+    * GCP
+* Platforms
+    * [Unix][unix]
+    * [Windows][windows]
+* Containers
+    * Docker
+    * Buildah
+* Orchestration
+    * Kubernetes
+* Developer Tools
+    * [Tmux][tmux]
+    * [Vim][vim]
+    * [Git][git]
+* Web
+    * [Nginx][nginx]
+* Database
+    * [SQLite][sqlite]
+    * MySQL
+    * Oracle
+    * Teradata
 
-[Unix](https://github.com/rkommidi/reference/wiki/Unix) <br/>
-[Ansible](https://github.com/rkommidi/reference/wiki/Ansible) <br/>
-[Perl](https://github.com/rkommidi/reference/wiki/Perl) <br/>
-[Tmux](https://github.com/rkommidi/reference/wiki/Tmux) <br/>
+[home]: https://github.com/rkommidi/reference/wiki
+[ansible]: https://github.com/rkommidi/reference/wiki/Ansible
+[perl]: https://github.com/rkommidi/reference/wiki/Perl
+[ksh]: https://github.com/rkommidi/reference/wiki/Korn-Shell
+[python]: https://github.com/rkommidi/reference/wiki/Python
+[unix]: https://github.com/rkommidi/reference/wiki/Unix
+[windows]: https://github.com/rkommidi/reference/wiki/Windows
+[tmux]: https://github.com/rkommidi/reference/wiki/Tmux
+[vim]: https://github.com/rkommidi/reference/wiki/Vim
+[sqlite]: https://github.com/rkommidi/reference/wiki/sqlite
+[docker]: https://github.com/rkommidi/reference/wiki/Docker
+[buildah]: https://github.com/rkommidi/reference/wiki/Buildah-Podman
+[nginx]: https://github.com/rkommidi/reference/wiki/Nginx
+[jenkins]: https://github.com/rkommidi/reference/wiki/Jenkins
+[git]: https://github.com/rkommidi/reference/wiki/Git
